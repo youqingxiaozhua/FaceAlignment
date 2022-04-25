@@ -15,7 +15,7 @@ These two subprocesses can be used separately, for example, if a dataset has pro
 - TODO: support face recognition in the detection process.
 
 
-It takes about 5 hours to detect and align the whole MS1M dataset with 4 V100 GPUs.
+It takes about 10 hours to detect and align the whole MS1M dataset with 4 V100 GPUs.
 
 ![align with MTCNN](dist/gpu_use_ratio.png)
 
